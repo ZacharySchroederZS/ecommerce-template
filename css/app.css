@@ -70,7 +70,7 @@ h2{
 .skew{	
 	/*padding: 4rem 0rem 4rem 0rem;*/
 	background:
-	-webkit-linear-gradient(-60deg, rgb(255, 92, 51) 50%, rgba(255, 92, 92, 0) 50.08%);
+	-webkit-linear-gradient(-60deg, rgb(255, 92, 51) 50%, rgba(0, 0, 0, 0) 50.07%);
 }
 
 .section_one{
@@ -117,7 +117,7 @@ hr{
   content: '';
   position: absolute;
   height: 2px;
-  width: 160%;
+  width: 10rem;
   top: 50%;
   /*border-top-style: solid;
   border-top-width: 1px;*/
